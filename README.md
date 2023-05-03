@@ -2,7 +2,7 @@
 Classification of low-resolution laser-radar images
 
 implementation of a CNN model for classification of LRLR images.
-Our data is limited and confidential, so I can only share my code.
+Our data is limited and confidential.
 
 sample of our images:
 

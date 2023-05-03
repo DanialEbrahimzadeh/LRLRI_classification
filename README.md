@@ -1,7 +1,7 @@
 # LRLRI_classification
 Classification of low-resolution laser-radar images
 
-implementation of a CNN model for classification of LRLR images.
+Implementation of a CNN model for classification of LRLR images.
 Our data is limited and confidential.
 
 sample of our images:
